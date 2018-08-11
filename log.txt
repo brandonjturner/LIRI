@@ -1,0 +1,173 @@
+User Command: C:\Program Files\nodejs\node.exe,C:\UCLAX\node\liri\liri.js
+LIRI Response:
+
+Commands:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+ERROR: retrieving user tweets -- [object Object]User Command: node liri.js spotify-this-songDon't Stop Me Know
+
+ERROR: Retrieving Spotify track -- StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}User Command: C:\Program Files\nodejs\node.exe,C:\UCLAX\node\liri\liri.js
+LIRI Response:
+
+Commands:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song"Don't Stop Me Now"
+
+ERROR: Retrieving Spotify track -- StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}User Command: node liri.js movie-this Hackers
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Hackers
+Year Released: 15 Sep 1995
+IMBD Rating: 6.2
+Rotten Tomatoes Rating: undefined
+Country Produced: USA
+Language: English, Italian, Japanese, Russian
+Plot: Dade Murphy was a hacker even as a kid in Seattle. He got arrested for the computer virus that he planted and was banned from using any computer until the age of 18.Then he moves to New York to meet a group of hackers. He also falls in love with Kate Libby.
+Actors: Jonny Lee Miller, Angelina Jolie, Jesse Bradford, Matthew Lillard
+
+User Command: node liri.js movie-this The Matrix
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The Matrix
+Year Released: 31 Mar 1999
+IMBD Rating: 8.7
+Rotten Tomatoes Rating: undefined
+Country Produced: USA
+Language: English
+Plot: Thomas A. Anderson is a man living two lives. By day he is an average computer programmer and by night a hacker known as Neo. Neo has always questioned his reality, but the truth is far beyond his imagination. Neo finds himself targeted by the police when he is contacted by Morpheus, a legendary computer hacker branded a terrorist by the government. Morpheus awakens Neo to the real world, a ravaged wasteland where most of humanity have been captured by a race of machines that live off of the humans' body heat and electrochemical energy and who imprison their minds within an artificial reality known as the Matrix. As a rebel against the machines, Neo must return to the Matrix and confront the agents: super-powerful computer programs devoted to snuffing out Neo and the entire human rebellion.
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+
+User Command: C:\Program Files\nodejs\node.exe,C:\uclax\node\liri\liri
+LIRI Response:
+
+Commands:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+ERROR: retrieving user tweets -- [object Object]User Command: C:\Program Files\nodejs\node.exe,C:\uclax\node\liri\liri.js
+LIRI Response:
+
+Commands:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-songHey Ya!
+
+ERROR: Retrieving Spotify track -- ReferenceError: songinfo is not definedUser Command: node liri.js spotify-this-songHey Ya
+
+ERROR: Retrieving Spotify track -- ReferenceError: songinfo is not definedUser Command: C:\Program Files\nodejs\node.exe,C:\uclax\node\liri\liri
+LIRI Response:
+
+Commands:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song"Don't Stop Me Now"
+
+ERROR: Retrieving Spotify track -- ReferenceError: songinfo is not definedUser Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song"Don't Stop Me Now"
+
+ERROR: Retrieving Spotify track -- ReferenceError: songinfo is not definedUser Command: node liri.js movie-this hackers
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Hackers
+Year Released: 15 Sep 1995
+IMBD Rating: 6.2
+Rotten Tomatoes Rating: undefined
+Country Produced: USA
+Language: English, Italian, Japanese, Russian
+Plot: Dade Murphy was a hacker even as a kid in Seattle. He got arrested for the computer virus that he planted and was banned from using any computer until the age of 18.Then he moves to New York to meet a group of hackers. He also falls in love with Kate Libby.
+Actors: Jonny Lee Miller, Angelina Jolie, Jesse Bradford, Matthew Lillard
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song"Don't Stop Me Now"
+
+ERROR: Retrieving Spotify track -- ReferenceError: songinfo is not definedUser Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song"Don't Stop Me Now"
+
+ERROR: Retrieving Spotify track -- ReferenceError: songinfo is not definedUser Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song"Don't Stop Me Now"
+
+ERROR: Retrieving Spotify track -- ReferenceError: songinfo is not definedUser Command: node liri.js my-tweets
+
+ERROR: retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+User Command: C:\Program Files\nodejs\node.exe,C:\uclax\node\liri\liri
+LIRI Response:
+
+Commands:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-songWhite Christmas
+
+ERROR: Retrieving Spotify track -- ReferenceError: songinfo is not definedUser Command: node liri.js my-tweets
+
+ERROR: retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+Command: undefined, Search: undefined
+Command: my-tweets, Search: undefined
+Command: movie-this, Search: Hackers
+Command: my-tweets, Search: undefined
+Command: movie-this, Search: Hackers
+Command: do-what-it-says, Search: undefined
+Command: do-what-it-says, Search: "Don't Stop Me Now"
+Command: do-what-it-says, Search: undefined
+Command: do-what-it-says, Search: "Don't Stop Me Now"
+Command: do-what-it-says, Search: undefined
+Command: do-what-it-says, Search: "Don't Stop Me Now"
+Command: do-what-it-says, Search: undefined
+Command: do-what-it-says, Search: "Don't Stop Me Now"
+Command: do-what-it-says, Search: undefined
+Command: do-what-it-says, Search: "Don't Stop Me Now"
+Command: my-tweets, Search: undefined
+Command: movie-this, Search: Hackers
+Command: do-what-it-says, Search: undefined
+Command: do-what-it-says, Search: "Don't Stop Me Now"
+Command: spotify-this-song, Search: Hello
